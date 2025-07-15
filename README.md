@@ -1,2 +1,1 @@
-# personal-dairy
-this is a personal diary
+notes for machine learning course by udemy.
