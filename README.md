@@ -1,1 +1,1 @@
-notes for machine learning course by udemy.
+machine learning guide. 
