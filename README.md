@@ -1,7 +1,7 @@
 # ml roadmap  
 
 a complete repository to learn machine learning from basics to advanced topics.  
-this repository includes theory notes, python implementations, and hands-on projects apply ml concepts effectively.  
+this repository includes theory notes, python implementations, and hands-on projects apply ml concept effectively.  
 
 ---
 
